@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b9de706003ba0549a48cfffc90aaab3, type: 3}
+  m_Name: ModeConfig_3
+  m_EditorClassIdentifier: 
+  modeName: Expert
+  modeIcon: {fileID: -590335565, guid: 9795479a46d64064ca11e34b9d0020c9, type: 3}
+  modeDescription: Only skill keeps you alive.
+  difficultyLevel: 3
+  waveConfig: {fileID: 0}
+  spawnTelegraphDuration: 0.5
+  enemyHealthMultiplier: 1
+  enemyDamageMultiplier: 1
+  enemySpeedMultiplier: 1
+  enemyAttackCooldownMultiplier: 1
+  enemyScalingStrategy: {fileID: 0}
+  spawnCountMultiplierStrategy: {fileID: 0}
+  spawnCountOffset: 0
+  materialDropRate: 1
+  shopPriceMultiplier: 1
+  shopProductPriceStrategy: {fileID: 0}
+  shopRefreshPriceStrategy: {fileID: 0}
+  shopProductRollStrategy: {fileID: 0}
+  shopPurchaseRuleStrategy: {fileID: 0}
+  shopPriceWaveLinearGrowth: 0.08
+  shopPriceWaveQuadraticGrowth: 0.01
+  healingReduction: 1
+  baseRefreshPrice: 100
+  refreshBaseGrowth: 0.25
+  refreshGrowthPerWave: 0.02
+  basePriceWaveLinearGrowth: 0.08
+  basePriceWaveQuadraticGrowth: 0.01
+  minRefreshPrice: 1
+  maxRefreshPrice: 999999
+  endlessBaseDifficultyMultiplier: 1.5
+  endlessDifficultyGrowthRate: 1.15
+  endlessHealthMultiplierGrowth: 1.2
+  endlessDamageMultiplierGrowth: 1.15
+  endlessSpeedMultiplierGrowth: 1.1
+  endlessAttackCooldownMultiplierGrowth: 0.95
+  endlessSpawnCountMultiplierGrowth: 1.25

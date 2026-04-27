@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0186432f8bd08b4daa4bb11cb21a1a9, type: 3}
+  m_Name: SubmachineGun
+  m_EditorClassIdentifier: 
+  weaponId: SubmachineGun
+  weaponName: SubmachineGun
+  weaponIcon: {fileID: 21300000, guid: ba276756e31fb03459fdf9b7afab33a2, type: 3}
+  weaponSprite: {fileID: 21300000, guid: a394b7ae8a01b754492ee40c1fe3d3c1, type: 3}
+  weaponDescription: The most unassuming automatic weapon
+  type: 1
+  weaponLevel: 1
+  tierDataList:
+  - level: 1
+    baseDamage: 10
+    attackCooldown: 0.4
+    attackRange: 8
+    buyPrice: 10
+    sellPrice: 5
+    isElemental: 0
+    elementalBaseDamage: 0
+    meleeData:
+      meleeScaling: 0
+      knockbackDistance: 0
+      knockbackDuration: 0.12
+    rangedData:
+      rangedScaling: 1
+      bulletPrefab: {fileID: 827325472990337169, guid: fc3e1b730e95da547958181ab7ed0568, type: 3}
+      bulletSpeed: 15
+      pierceCount: 0
+    modifiers: []
+  - level: 2
+    baseDamage: 18
+    attackCooldown: 0.35
+    attackRange: 10
+    buyPrice: 20
+    sellPrice: 10
+    isElemental: 0
+    elementalBaseDamage: 0
+    meleeData:
+      meleeScaling: 0
+      knockbackDistance: 0
+      knockbackDuration: 0.12
+    rangedData:
+      rangedScaling: 1
+      bulletPrefab: {fileID: 827325472990337169, guid: fc3e1b730e95da547958181ab7ed0568, type: 3}
+      bulletSpeed: 20
+      pierceCount: 0
+    modifiers: []
+  - level: 3
+    baseDamage: 35
+    attackCooldown: 0.3
+    attackRange: 12
+    buyPrice: 60
+    sellPrice: 30
+    isElemental: 0
+    elementalBaseDamage: 0
+    meleeData:
+      meleeScaling: 0
+      knockbackDistance: 0
+      knockbackDuration: 0.12
+    rangedData:
+      rangedScaling: 1
+      bulletPrefab: {fileID: 827325472990337169, guid: fc3e1b730e95da547958181ab7ed0568, type: 3}
+      bulletSpeed: 20
+      pierceCount: 0
+    modifiers: []
+  - level: 4
+    baseDamage: 60
+    attackCooldown: 0.3
+    attackRange: 15
+    buyPrice: 120
+    sellPrice: 60
+    isElemental: 0
+    elementalBaseDamage: 0
+    meleeData:
+      meleeScaling: 0
+      knockbackDistance: 0
+      knockbackDuration: 0.12
+    rangedData:
+      rangedScaling: 1
+      bulletPrefab: {fileID: 827325472990337169, guid: fc3e1b730e95da547958181ab7ed0568, type: 3}
+      bulletSpeed: 25
+      pierceCount: 0
+    modifiers: []
+  attackSfxKey: SubmachineGun
+  meleeWeaponPrefab: {fileID: 0}

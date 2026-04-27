@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0186432f8bd08b4daa4bb11cb21a1a9, type: 3}
+  m_Name: LaserGun
+  m_EditorClassIdentifier: 
+  weaponId: LaserGun
+  weaponName: LaserGun
+  weaponIcon: {fileID: 21300000, guid: 5a1304020fb3a8946b80e23030655b7a, type: 3}
+  weaponSprite: {fileID: 21300000, guid: 5f6322839e6ff534d8974549ff647e2a, type: 3}
+  weaponDescription: Slightly lower damage, but can penetrate enemies
+  type: 1
+  weaponLevel: 1
+  tierDataList:
+  - level: 1
+    baseDamage: 8
+    attackCooldown: 0.5
+    attackRange: 8
+    buyPrice: 10
+    sellPrice: 5
+    isElemental: 0
+    elementalBaseDamage: 0
+    meleeData:
+      meleeScaling: 0
+      knockbackDistance: 0
+      knockbackDuration: 0.12
+    rangedData:
+      rangedScaling: 1
+      bulletPrefab: {fileID: 827325472990337169, guid: fc3e1b730e95da547958181ab7ed0568, type: 3}
+      bulletSpeed: 20
+      pierceCount: 2
+    modifiers: []
+  - level: 2
+    baseDamage: 15
+    attackCooldown: 0.45
+    attackRange: 9
+    buyPrice: 20
+    sellPrice: 10
+    isElemental: 0
+    elementalBaseDamage: 0
+    meleeData:
+      meleeScaling: 0
+      knockbackDistance: 0
+      knockbackDuration: 0.12
+    rangedData:
+      rangedScaling: 1
+      bulletPrefab: {fileID: 827325472990337169, guid: fc3e1b730e95da547958181ab7ed0568, type: 3}
+      bulletSpeed: 20
+      pierceCount: 3
+    modifiers: []
+  - level: 3
+    baseDamage: 25
+    attackCooldown: 0.4
+    attackRange: 10
+    buyPrice: 40
+    sellPrice: 20
+    isElemental: 0
+    elementalBaseDamage: 0
+    meleeData:
+      meleeScaling: 0
+      knockbackDistance: 0
+      knockbackDuration: 0.12
+    rangedData:
+      rangedScaling: 1
+      bulletPrefab: {fileID: 827325472990337169, guid: fc3e1b730e95da547958181ab7ed0568, type: 3}
+      bulletSpeed: 20
+      pierceCount: 4
+    modifiers: []
+  - level: 4
+    baseDamage: 45
+    attackCooldown: 0.3
+    attackRange: 12
+    buyPrice: 100
+    sellPrice: 50
+    isElemental: 0
+    elementalBaseDamage: 0
+    meleeData:
+      meleeScaling: 0
+      knockbackDistance: 0
+      knockbackDuration: 0.12
+    rangedData:
+      rangedScaling: 1
+      bulletPrefab: {fileID: 827325472990337169, guid: fc3e1b730e95da547958181ab7ed0568, type: 3}
+      bulletSpeed: 25
+      pierceCount: 5
+    modifiers: []
+  attackSfxKey: Laser
+  meleeWeaponPrefab: {fileID: 0}

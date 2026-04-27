@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: ArtRes_Music
+  m_EditorClassIdentifier: 
+  m_GroupName: ArtRes_Music
+  m_Data:
+    m_SerializedData: []
+  m_GUID: d3ef4f61cc742dc4c90680783e8ac863
+  m_SerializeEntries:
+  - m_GUID: 9cdc87d7c45b7c34f82400c46bf91293
+    m_Address: GameMusic
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c16c5a212d10eec44a84b4480f35180c
+    m_Address: BeginMusic
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef0eccdec53c9c24786b779c430710bd
+    m_Address: SelectMusic
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: f957f96f41bbf004d8c4d8e92075af66, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c5eae5b10d285454d8d83e8f61146383, type: 2}
+    - {fileID: 11400000, guid: 31cd849718e8c31479744df38a29efc9, type: 2}

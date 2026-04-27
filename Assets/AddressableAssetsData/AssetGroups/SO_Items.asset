@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: SO_Items
+  m_EditorClassIdentifier: 
+  m_GroupName: SO_Items
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 2391498b63038834ba932ce82d9c193c
+  m_SerializeEntries:
+  - m_GUID: 03039ec7134675e49b2a9565b5b0a73d
+    m_Address: Item_Campfire
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - item
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a677b5b3b5880644a2cf3d6e20bc3c2
+    m_Address: Item_Leech
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - item
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 329d3f7d0e08e9540b883cd92e7f68a2
+    m_Address: Item_Boxing
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - item
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5c5f0fe9e4ddcf9469873296d48c6c72
+    m_Address: Item_Banner
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - item
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 68025173e5ce6ab4e8d5b210013a02c8
+    m_Address: Item_Bullet
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - item
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 936924b8f4a566e45a3eebf239636e3d
+    m_Address: Item_Monkey
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - item
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99cc5c4c4fb018f4aa3fb7f253f4d396
+    m_Address: Item_Helmet
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - item
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b1a5f596d02894b428c16f1ab8c94391
+    m_Address: Assets/Resources_moved/SO_Items/Item_Tomato.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - item
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b68a7269ab88887459effd0a43078f27
+    m_Address: Item_Coffee
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - item
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bae6d9818709a9948a175baa5c211ae5
+    m_Address: Item_Blood
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - item
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e29dfb4443929354fb6751be4c4653db
+    m_Address: HealthPower
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - item
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: f957f96f41bbf004d8c4d8e92075af66, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 9fe3863686fba6448bb932b058674768, type: 2}
+    - {fileID: 11400000, guid: 389cdf1e2e72b0d4db1efd1fd9b3b1c4, type: 2}

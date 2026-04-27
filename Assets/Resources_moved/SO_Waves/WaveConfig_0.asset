@@ -1,0 +1,444 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0aebf6414f3b41469efcc91a60a8fbd, type: 3}
+  m_Name: WaveConfig_0
+  m_EditorClassIdentifier: 
+  configName: Waves_0
+  waves:
+  - waveName: 1
+    waveDuration: 15
+    waveStartDelay: 0
+    normalEnemySpawns:
+    - enemyConfig: {fileID: 11400000, guid: 996a55ed236bbc54c8b2273a8a6eca4b, type: 2}
+      weight: 100
+    specialEnemySpawns: []
+    spawnPointCount: 10
+    baseSpawnInterval: 1.5
+    minSpawnInterval: 1
+    minSpawnCountPerTick: 3
+    maxSpawnCountPerTick: 4
+    spawnAnchorsPerTick: 5
+    burstRadius: 1
+    maxAliveEnemies: 60
+    spawnIntensityCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.06
+        inSlope: 0
+        outSlope: 0.35
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 0.42
+        value: 0.38
+        inSlope: 0.95
+        outSlope: 0.95
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1
+        value: 0.92
+        inSlope: 0.65
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    enableSpawnTelegraph: 1
+  - waveName: 2
+    waveDuration: 20
+    waveStartDelay: 0
+    normalEnemySpawns:
+    - enemyConfig: {fileID: 11400000, guid: fbdc982c931a3e94ca65e7239e70822c, type: 2}
+      weight: 10
+    - enemyConfig: {fileID: 11400000, guid: 996a55ed236bbc54c8b2273a8a6eca4b, type: 2}
+      weight: 90
+    specialEnemySpawns: []
+    spawnPointCount: 10
+    baseSpawnInterval: 1.4
+    minSpawnInterval: 0.9
+    minSpawnCountPerTick: 4
+    maxSpawnCountPerTick: 5
+    spawnAnchorsPerTick: 6
+    burstRadius: 1
+    maxAliveEnemies: 80
+    spawnIntensityCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    enableSpawnTelegraph: 1
+  - waveName: 3
+    waveDuration: 25
+    waveStartDelay: 0
+    normalEnemySpawns:
+    - enemyConfig: {fileID: 11400000, guid: fbdc982c931a3e94ca65e7239e70822c, type: 2}
+      weight: 18
+    - enemyConfig: {fileID: 11400000, guid: 996a55ed236bbc54c8b2273a8a6eca4b, type: 2}
+      weight: 82
+    specialEnemySpawns: []
+    spawnPointCount: 10
+    baseSpawnInterval: 1.3
+    minSpawnInterval: 0.8
+    minSpawnCountPerTick: 5
+    maxSpawnCountPerTick: 7
+    spawnAnchorsPerTick: 7
+    burstRadius: 1
+    maxAliveEnemies: 100
+    spawnIntensityCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    enableSpawnTelegraph: 1
+  - waveName: 4
+    waveDuration: 30
+    waveStartDelay: 0
+    normalEnemySpawns:
+    - enemyConfig: {fileID: 11400000, guid: 996a55ed236bbc54c8b2273a8a6eca4b, type: 2}
+      weight: 68
+    - enemyConfig: {fileID: 11400000, guid: fbdc982c931a3e94ca65e7239e70822c, type: 2}
+      weight: 32
+    specialEnemySpawns: []
+    spawnPointCount: 12
+    baseSpawnInterval: 1.2
+    minSpawnInterval: 0.7
+    minSpawnCountPerTick: 6
+    maxSpawnCountPerTick: 8
+    spawnAnchorsPerTick: 8
+    burstRadius: 1.2
+    maxAliveEnemies: 100
+    spawnIntensityCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    enableSpawnTelegraph: 1
+  - waveName: 5
+    waveDuration: 30
+    waveStartDelay: 0
+    normalEnemySpawns:
+    - enemyConfig: {fileID: 11400000, guid: 996a55ed236bbc54c8b2273a8a6eca4b, type: 2}
+      weight: 58
+    - enemyConfig: {fileID: 11400000, guid: fbdc982c931a3e94ca65e7239e70822c, type: 2}
+      weight: 42
+    specialEnemySpawns: []
+    spawnPointCount: 14
+    baseSpawnInterval: 1
+    minSpawnInterval: 0.5
+    minSpawnCountPerTick: 8
+    maxSpawnCountPerTick: 10
+    spawnAnchorsPerTick: 10
+    burstRadius: 1
+    maxAliveEnemies: 100
+    spawnIntensityCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    enableSpawnTelegraph: 1
+  - waveName: 6
+    waveDuration: 30
+    waveStartDelay: 0
+    normalEnemySpawns:
+    - enemyConfig: {fileID: 11400000, guid: 996a55ed236bbc54c8b2273a8a6eca4b, type: 2}
+      weight: 48
+    - enemyConfig: {fileID: 11400000, guid: fbdc982c931a3e94ca65e7239e70822c, type: 2}
+      weight: 52
+    specialEnemySpawns: []
+    spawnPointCount: 14
+    baseSpawnInterval: 0.9
+    minSpawnInterval: 0.5
+    minSpawnCountPerTick: 5
+    maxSpawnCountPerTick: 9
+    spawnAnchorsPerTick: 7
+    burstRadius: 1.4
+    maxAliveEnemies: 135
+    spawnIntensityCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    enableSpawnTelegraph: 1
+  - waveName: 7
+    waveDuration: 30
+    waveStartDelay: 0
+    normalEnemySpawns:
+    - enemyConfig: {fileID: 11400000, guid: 996a55ed236bbc54c8b2273a8a6eca4b, type: 2}
+      weight: 45
+    - enemyConfig: {fileID: 11400000, guid: fbdc982c931a3e94ca65e7239e70822c, type: 2}
+      weight: 55
+    specialEnemySpawns: []
+    spawnPointCount: 14
+    baseSpawnInterval: 0.85
+    minSpawnInterval: 0.45
+    minSpawnCountPerTick: 5
+    maxSpawnCountPerTick: 10
+    spawnAnchorsPerTick: 7
+    burstRadius: 1.45
+    maxAliveEnemies: 150
+    spawnIntensityCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    enableSpawnTelegraph: 1
+  - waveName: 8
+    waveDuration: 30
+    waveStartDelay: 0
+    normalEnemySpawns:
+    - enemyConfig: {fileID: 11400000, guid: 996a55ed236bbc54c8b2273a8a6eca4b, type: 2}
+      weight: 45
+    - enemyConfig: {fileID: 11400000, guid: fbdc982c931a3e94ca65e7239e70822c, type: 2}
+      weight: 55
+    specialEnemySpawns: []
+    spawnPointCount: 16
+    baseSpawnInterval: 0.8
+    minSpawnInterval: 0.4
+    minSpawnCountPerTick: 6
+    maxSpawnCountPerTick: 12
+    spawnAnchorsPerTick: 8
+    burstRadius: 1.5
+    maxAliveEnemies: 170
+    spawnIntensityCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    enableSpawnTelegraph: 1
+  - waveName: 9
+    waveDuration: 30
+    waveStartDelay: 0
+    normalEnemySpawns:
+    - enemyConfig: {fileID: 11400000, guid: 996a55ed236bbc54c8b2273a8a6eca4b, type: 2}
+      weight: 42
+    - enemyConfig: {fileID: 11400000, guid: fbdc982c931a3e94ca65e7239e70822c, type: 2}
+      weight: 58
+    specialEnemySpawns: []
+    spawnPointCount: 16
+    baseSpawnInterval: 0.7
+    minSpawnInterval: 0.35
+    minSpawnCountPerTick: 7
+    maxSpawnCountPerTick: 13
+    spawnAnchorsPerTick: 8
+    burstRadius: 1.5
+    maxAliveEnemies: 185
+    spawnIntensityCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    enableSpawnTelegraph: 1
+  - waveName: 10
+    waveDuration: 30
+    waveStartDelay: 0
+    normalEnemySpawns:
+    - enemyConfig: {fileID: 11400000, guid: 996a55ed236bbc54c8b2273a8a6eca4b, type: 2}
+      weight: 38
+    - enemyConfig: {fileID: 11400000, guid: fbdc982c931a3e94ca65e7239e70822c, type: 2}
+      weight: 62
+    specialEnemySpawns: []
+    spawnPointCount: 16
+    baseSpawnInterval: 0.6
+    minSpawnInterval: 0.3
+    minSpawnCountPerTick: 8
+    maxSpawnCountPerTick: 15
+    spawnAnchorsPerTick: 9
+    burstRadius: 1.5
+    maxAliveEnemies: 200
+    spawnIntensityCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 1
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      - serializedVersion: 3
+        time: 1
+        value: 1
+        inSlope: 1
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0
+        outWeight: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    enableSpawnTelegraph: 1
+  enableEndlessMode: 1

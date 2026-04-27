@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83c61a6aceceaec4eb507396d3fb21ab, type: 3}
+  m_Name: Item_Blood
+  m_EditorClassIdentifier: 
+  itemName: Blood
+  itemIcon: {fileID: 21300000, guid: 3a626e7c800541448a99f0d7758024b2, type: 3}
+  itemDescription: +1 Health Regen
+  itemLevel: 1
+  effects:
+  - {fileID: 11400000, guid: 4f5439ab3d2f6f045b5868be6d32c162, type: 2}
+  shopPrice: 10

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: ArtRes_Sound
+  m_EditorClassIdentifier: 
+  m_GroupName: ArtRes_Sound
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 3f2ae3b1768024046b8544fb232492ed
+  m_SerializeEntries:
+  - m_GUID: 9792c33751f25d146876c85b87e52259
+    m_Address: SubmachineGun
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aa94611a7e0b0834da697afd8c64d0d0
+    m_Address: Laser
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bd683f11b9b2af143a9b3afc5f0cfbe4
+    m_Address: Knife
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bdab3f155a01b7749907478e92d561ef
+    m_Address: ButtonClick
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: beb058a15778398409bd2ac138226e17
+    m_Address: Coin
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0b377d255ee7da46b5a30c41ee12ce6
+    m_Address: ButtonHover
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec2373dd2a17e5c4ab674d2545384d58
+    m_Address: Hurt
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: f957f96f41bbf004d8c4d8e92075af66, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d02966cbd27dca64894d092b7e5e8202, type: 2}
+    - {fileID: 11400000, guid: 99c2c63cbb8eaae43863dc31bb1837c9, type: 2}

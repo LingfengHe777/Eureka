@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wall
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Wall
+  - Water
+  - UI
+  - Enemy
+  - Coin
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2757891169
+    locked: 0
+  - name: Floor
+    uniqueID: 307586107
+    locked: 0
+  - name: Environment
+    uniqueID: 3349211233
+    locked: 0
+  - name: Entities
+    uniqueID: 3819185727
+    locked: 0
+  - name: VFX
+    uniqueID: 2172199493
+    locked: 0
+  - name: UI
+    uniqueID: 1214149931
+    locked: 0

@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b9de706003ba0549a48cfffc90aaab3, type: 3}
+  m_Name: ModeConfig_1
+  m_EditorClassIdentifier: 
+  modeName: Normal
+  modeIcon: {fileID: -769864841, guid: 9795479a46d64064ca11e34b9d0020c9, type: 3}
+  modeDescription: "You\u2019ve stepped in\u2026 barely."
+  difficultyLevel: 1
+  waveConfig: {fileID: 11400000, guid: df082fee87334e441b98807d255f7c29, type: 2}
+  spawnTelegraphDuration: 0.9
+  enemyHealthMultiplier: 1.5
+  enemyDamageMultiplier: 1.5
+  enemySpeedMultiplier: 1
+  enemyAttackCooldownMultiplier: 1.1
+  enemyScalingStrategy: {fileID: 11400000, guid: 8ec41f2457490cc44a4f6da62593d004, type: 2}
+  spawnCountMultiplierStrategy: {fileID: 11400000, guid: fae2b48fe6d15d24ab3390505c1684fc, type: 2}
+  spawnCountOffset: 0
+  materialDropRate: 1
+  shopPriceMultiplier: 1
+  shopProductPriceStrategy: {fileID: 11400000, guid: 62b1774fbd85c124c932cb2e2545e59e, type: 2}
+  shopRefreshPriceStrategy: {fileID: 11400000, guid: 4d8dc124573782f4bbadba1e06ccf5f1, type: 2}
+  shopProductRollStrategy: {fileID: 11400000, guid: 1ccf471c69e5907469fc8ebfd804063b, type: 2}
+  shopPurchaseRuleStrategy: {fileID: 11400000, guid: 98c121d61e4e5da4db0159c2fce54aa4, type: 2}
+  shopPriceWaveLinearGrowth: 0.7
+  shopPriceWaveQuadraticGrowth: 0.06
+  healingReduction: 1
+  baseRefreshPrice: 4
+  refreshBaseGrowth: 0.5
+  refreshGrowthPerWave: 0.05
+  basePriceWaveLinearGrowth: 0.12
+  basePriceWaveQuadraticGrowth: 0.02
+  minRefreshPrice: 1
+  maxRefreshPrice: 999999
+  endlessBaseDifficultyMultiplier: 2
+  endlessDifficultyGrowthRate: 1.7
+  endlessHealthMultiplierGrowth: 1.3
+  endlessDamageMultiplierGrowth: 1.2
+  endlessSpeedMultiplierGrowth: 1.1
+  endlessAttackCooldownMultiplierGrowth: 0.95
+  endlessSpawnCountMultiplierGrowth: 1.25

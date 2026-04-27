@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: SO_Waves
+  m_EditorClassIdentifier: 
+  m_GroupName: SO_Waves
+  m_Data:
+    m_SerializedData: []
+  m_GUID: fac3ab672c9f6684db942dd3aca7ea9f
+  m_SerializeEntries:
+  - m_GUID: df082fee87334e441b98807d255f7c29
+    m_Address: WaveConfig_0
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: f957f96f41bbf004d8c4d8e92075af66, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: b27c7c85af327fe49a596ea95255efd0, type: 2}
+    - {fileID: 11400000, guid: 35ad88458c52bd7458e13a1e5db34fbd, type: 2}

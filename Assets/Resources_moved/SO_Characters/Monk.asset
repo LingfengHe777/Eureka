@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 876b2b18a4b2a6d44a1439459dcc0df1, type: 3}
+  m_Name: Monk
+  m_EditorClassIdentifier: 
+  characterName: Monk
+  icon: {fileID: 1562510237, guid: 5ce6b488bda4ac044ac127a32fbd538c, type: 3}
+  description: "+5 Dodge\n+5 Damage\nSkill\uFF1AFlash\uFF08Trigger\uFF1ASpace\uFF09\nTeleport
+    a short distance\n1.5-second cooldown"
+  animatorController:
+    m_AssetGUID: 2807ee1c111eaff489732201d84c3dd8
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  initialStats:
+  - type: 4
+    value: 5
+    isPercent: 0
+  - type: 5
+    value: 5
+    isPercent: 1
+  innateLogicEffects:
+  - {fileID: 11400000, guid: 1a2f4020ccf56a449bcb97938fc0270d, type: 2}

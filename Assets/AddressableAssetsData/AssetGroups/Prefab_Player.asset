@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Prefab_Player
+  m_EditorClassIdentifier: 
+  m_GroupName: Prefab_Player
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 55f73d1e0c4d864498c01a02044afa66
+  m_SerializeEntries:
+  - m_GUID: 1c78b7c9de6748f43ba7235a325d0673
+    m_Address: GameEndPanel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a850be982770b2479b46bde70c83bb3
+    m_Address: Item_Riposte
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4f52edb39f5be04ea5e8567e3240869
+    m_Address: Player
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c6e2eb63dd6d37c4880584b5b88e2804
+    m_Address: PostWavesChoicePanel
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: f957f96f41bbf004d8c4d8e92075af66, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 27740d5b4eff5884e844b8ee7fbac188, type: 2}
+    - {fileID: 11400000, guid: f1b0ecf18e8604842b7383ff0b29c2a8, type: 2}

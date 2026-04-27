@@ -1,0 +1,376 @@
+fileFormatVersion: 2
+guid: 9795479a46d64064ca11e34b9d0020c9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 639
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24e5912a04f376b4098b4d06d3a1dff8
+      internalID: -1447051801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_3
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 639
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245bb82d413a47d4ca188b115ef407ff
+      internalID: -769864841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_4
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 638
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586d10defaddcd641819890e9a49502f
+      internalID: 884083074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 638
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27bb4b12e3e5e114880ebb28f49e24ae
+      internalID: -590335565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_6
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 638
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c80f961fc292be4e8d9dd3b8fa2830f
+      internalID: 1056386539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_10
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 598
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565f22f1503ee1541aa582e937bb7412
+      internalID: 1155025538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_0: -1995012688
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_1: -1905164629
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_10: 1155025538
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_100: 2086889377
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_101: 1158059405
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_102: -17534319
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_103: -2067571915
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_104: 1582668825
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_105: -34993265
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_106: 767687554
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_107: 1056577739
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_108: 10175078
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_109: -1434138985
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_11: 328592724
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_110: -877703858
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_111: 1601614869
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_112: 105645740
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_113: 754269146
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_114: -867023973
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_115: -1145656161
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_116: 1283218860
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_117: -218269853
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_118: -289528111
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_119: 1549510572
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_12: -1444699198
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_120: -1179170670
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_121: 45872936
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_122: 1928183106
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_123: 671288769
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_124: -834900166
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_125: 1113755251
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_126: -880076183
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_127: 1621124303
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_128: 531622208
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_129: 1609838088
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_13: -828262201
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_130: 456748188
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_131: -1299257430
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_132: 1273105145
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_133: 277804603
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_134: -869442191
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_135: 1879214582
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_14: -1221823611
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_15: -1557914830
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_16: 1853573782
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_17: 1331897678
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_18: -2083356736
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_19: -511320832
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_2: -1447051801
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_20: -1926345415
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_21: -1456411717
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_22: -117481839
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_23: -961548840
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_24: -2055132301
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_25: -54143065
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_26: 1028545757
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_27: -2110986541
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_28: -1140138323
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_29: -157623374
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_3: -769864841
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_30: -1355349947
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_31: -364682285
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_32: -794245128
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_33: -236446261
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_34: 1579153722
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_35: 1069110730
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_36: -298358788
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_37: -36622047
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_38: 910728096
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_39: -1876620664
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_4: 884083074
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_40: 1948227060
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_41: -108986804
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_42: 1161489196
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_43: -95589908
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_44: -649994850
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_45: -1778650602
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_46: -301887730
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_47: -699241100
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_48: -1420169067
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_49: 1225002834
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_5: -590335565
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_50: 826003048
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_51: -756833174
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_52: -1583831181
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_53: -1285357342
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_54: 1618446548
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_55: -1205340774
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_56: 1105092340
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_57: 1493630669
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_58: 1777082498
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_59: -559077825
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_6: 1056386539
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_60: 1796159
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_61: 1292455991
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_62: 1432570950
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_63: 127852634
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_64: 150833930
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_65: 308310613
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_66: -846850319
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_67: 1821874032
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_68: 1931796503
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_69: -2090996417
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_7: 1612642925
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_70: 559841385
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_71: 1779795753
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_72: 1822430570
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_73: 636396533
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_74: 2035634134
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_75: -1980113243
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_76: 1715971568
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_77: -484670965
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_78: 594064613
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_79: 1442110179
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_8: 1461188453
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_80: 1749102579
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_81: 1533573817
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_82: 1524735295
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_83: -672917102
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_84: -506051538
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_85: -1405628403
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_86: 1486192979
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_87: 2102324537
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_88: 51842035
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_89: -1913374570
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_9: -927803957
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_90: -1353530159
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_91: 223702431
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_92: -215493971
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_93: 2046989211
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_94: -1286873846
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_95: -581125068
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_96: 1883824805
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_97: -222040146
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_98: -563208545
+      Wii - Super Mario Galaxy - Miscellaneous - HUD Icons, Letters, & Numbers_99: 1520914414
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

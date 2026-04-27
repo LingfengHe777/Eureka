@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: SO_Characters
+  m_EditorClassIdentifier: 
+  m_GroupName: SO_Characters
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 5e8379acab0caab439dd45bbb9caa799
+  m_SerializeEntries:
+  - m_GUID: 0a48463c09562944eb6135f214f34e5f
+    m_Address: Robot
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d0e132b0957e634884a130b92c0040c
+    m_Address: StatClampConfig
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c136683dc436c4d43882b8dcb0665434
+    m_Address: Monk
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - character
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e12d185a0f11eec4f8cd6bf32f124ac2
+    m_Address: GlobalStatConfig
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: f957f96f41bbf004d8c4d8e92075af66, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 58a01896122e555459467ffad2ed3b6d, type: 2}
+    - {fileID: 11400000, guid: 4bf41e6a857cd33469627474b9fd394b, type: 2}

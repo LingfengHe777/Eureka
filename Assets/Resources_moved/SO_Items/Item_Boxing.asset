@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83c61a6aceceaec4eb507396d3fb21ab, type: 3}
+  m_Name: Item_Boxing
+  m_EditorClassIdentifier: 
+  itemName: Boxing
+  itemIcon: {fileID: 21300000, guid: 042de4fd25415054f93d839bab23bc28, type: 3}
+  itemDescription: +2 Melee Damage
+  itemLevel: 1
+  effects:
+  - {fileID: 11400000, guid: 6f38efc2da1004c478319cd2ecfb87bc, type: 2}
+  itemType: 0
+  shopPrice: 10

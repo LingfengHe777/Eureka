@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a0186432f8bd08b4daa4bb11cb21a1a9, type: 3}
+  m_Name: Knife
+  m_EditorClassIdentifier: 
+  weaponId: Knife
+  weaponName: Knife
+  weaponIcon: {fileID: 21300000, guid: 0c9cfa1be34fccd40ae200d5b58fd281, type: 3}
+  weaponSprite: {fileID: 21300000, guid: ca6dc81b8de64f64488180e983c6f793, type: 3}
+  weaponDescription: unremarkable close-quarters self-defence tool
+  type: 0
+  weaponLevel: 1
+  tierDataList:
+  - level: 1
+    baseDamage: 18
+    attackCooldown: 0.8
+    attackRange: 2
+    buyPrice: 10
+    sellPrice: 5
+    isElemental: 0
+    elementalBaseDamage: 0
+    meleeData:
+      meleeScaling: 1
+      knockbackDistance: 0.2
+      knockbackDuration: 0.1
+    rangedData:
+      rangedScaling: 0
+      bulletPrefab: {fileID: 0}
+      bulletSpeed: 0
+      pierceCount: 0
+    modifiers: []
+  - level: 2
+    baseDamage: 30
+    attackCooldown: 0.7
+    attackRange: 2
+    buyPrice: 20
+    sellPrice: 10
+    isElemental: 0
+    elementalBaseDamage: 0
+    meleeData:
+      meleeScaling: 1
+      knockbackDistance: 0.25
+      knockbackDuration: 0.1
+    rangedData:
+      rangedScaling: 0
+      bulletPrefab: {fileID: 0}
+      bulletSpeed: 0
+      pierceCount: 0
+    modifiers: []
+  - level: 3
+    baseDamage: 50
+    attackCooldown: 0.6
+    attackRange: 2
+    buyPrice: 40
+    sellPrice: 20
+    isElemental: 0
+    elementalBaseDamage: 0
+    meleeData:
+      meleeScaling: 1
+      knockbackDistance: 0.25
+      knockbackDuration: 0.1
+    rangedData:
+      rangedScaling: 0
+      bulletPrefab: {fileID: 0}
+      bulletSpeed: 0
+      pierceCount: 0
+    modifiers: []
+  - level: 4
+    baseDamage: 70
+    attackCooldown: 0.5
+    attackRange: 2
+    buyPrice: 80
+    sellPrice: 40
+    isElemental: 0
+    elementalBaseDamage: 0
+    meleeData:
+      meleeScaling: 1
+      knockbackDistance: 0.3
+      knockbackDuration: 0.1
+    rangedData:
+      rangedScaling: 0
+      bulletPrefab: {fileID: 0}
+      bulletSpeed: 0
+      pierceCount: 0
+    modifiers: []
+  attackSfxKey: Knife
+  meleeWeaponPrefab: {fileID: 5466971425540119805, guid: 88a8d076bb09472418923c6fa2633d4f, type: 3}
